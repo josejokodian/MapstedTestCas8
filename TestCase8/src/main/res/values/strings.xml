@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Testcase8</string>
+    <string name="testcase">Mapsted Test Case #8</string>
+    <string name="myName">[Jose George]</string>
+    <string name="currentDate">[11/12/2019]</string>
+    <string name="purchaseCost">Purchase Costs:</string>
+    <string name="manufacturer">Manufacturer</string>
+    <string name="mtp">Most Total Purchases:</string>
+    <string name="nop">Number of Purchases:</string>
+    <string name="category">Category:</string>
+    <string name="country">Country</string>
+    <string name="state">State</string>
+    <string name="item">Item:</string>
+
+    <string name="costManufacturer">$00000</string>
+    <string name="costCategory">$00000</string>
+    <string name="costCountry">$00000</string>
+    <string name="costState">$00000</string>
+    <string name="costItem">$000000</string>
+    <string name="urlBuildingInfos">http://positioning-test.mapsted.com/api/Values/GetBuildingData/</string>
+
+</resources>
